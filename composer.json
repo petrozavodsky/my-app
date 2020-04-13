@@ -1,0 +1,12 @@
+{
+    "name": "vovasik/my-app",
+    "authors": [
+        {
+            "name": "petrozavodsky",
+            "email": "petrozavodsky@gmail.com"
+        }
+    ],
+    "require": {
+        "johnbillion/extended-cpts": "4.3.2"
+    }
+}
